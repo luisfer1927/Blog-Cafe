@@ -32,4 +32,6 @@
 
 <h2>Descripcion del proyecto</h2> 
 
+<p> El objetivo de este proyecto fue adquirir habilidad en HTML-CSS realizando un blog sencillo de Café, aplicando buenas practicas y paginas responsivas</p>
+
    
