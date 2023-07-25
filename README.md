@@ -35,7 +35,7 @@
 <p> El objetivo de este proyecto fue adquirir habilidad en HTML-CSS realizando un blog sencillo de Café, aplicando buenas practicas y paginas responsivas</p>
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+HTML, CSS...
 
 <a href="https://moonlit-florentine-f28b48.netlify.app/">BLOG-CAFE</a>
    
