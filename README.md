@@ -34,6 +34,7 @@
 
 <p> El objetivo de este proyecto fue adquirir habilidad en HTML-CSS realizando un blog sencillo de Café, aplicando buenas practicas y paginas responsivas</p>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<p> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </p>
+   
 
    
